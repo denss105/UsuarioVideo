@@ -6,7 +6,7 @@ package usuarioVideo;
 
 /**
  *
- * @author Danai Bezares  
+ * @author Denisse Joya
  */
 public class Usuario {
 
