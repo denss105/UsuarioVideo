@@ -14,7 +14,7 @@ public class usuarioVideo {
 
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
-        Usuario usuario = new Usuario("Blackpink", "perdi23556@gmail.com");
+        Usuario usuario = new Usuario("Blackpink", "denissejoya52000@gmail.com");
         Video vid = new Video("Pink Venom", 60);
         Comentario coment = new Comentario();
         usuario.verVideo(vid);
