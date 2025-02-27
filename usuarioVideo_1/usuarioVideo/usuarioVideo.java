@@ -14,7 +14,7 @@ public class usuarioVideo {
 
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
-        Usuario usuario = new Usuario("Danai", "denissejoya52000@gmail.com");
+        Usuario usuario = new Usuario("Danai", "danairtg44389@gmail.com");
         Video vid = new Video("Nueva Era", 60);
         Comentario coment = new Comentario();
         usuario.verVideo(vid);
