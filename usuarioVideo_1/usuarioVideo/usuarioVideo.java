@@ -8,14 +8,14 @@ import java.util.*;
 
 /**
  *
- * @author Oscar
+ * @author Perla Díaz 
  */
 public class usuarioVideo {
 
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
-        Usuario usuario = new Usuario("macaco", "alpicar121@gmail.com");
-        Video vid = new Video("monkey flip", 60);
+        Usuario usuario = new Usuario("Bts", "perdi23556@gmail.com");
+        Video vid = new Video("Dynamite", 60);
         Comentario coment = new Comentario();
         usuario.verVideo(vid);
         vid.detener();
